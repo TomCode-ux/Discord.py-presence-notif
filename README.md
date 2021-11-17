@@ -1,2 +1,2 @@
 # Discord.py-presence-notif
-This bot notifies you in discord, everytime someone is online
+This bot notifies you in discord, everytime someone is online in roblox
